@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d51a99e-7bfd-4e53-80ee-80ccb1cb6f50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/first/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first/first.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/.idea/artifacts/St_Pauls_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/.idea/libraries/St_Pauls.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first/.idea/libraries/St_Pauls.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/first/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second/.idea/artifacts/St_Pauls_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/second/.idea/libraries/St_Pauls.xml" beforeDir="false" afterPath="$PROJECT_DIR$/second/.idea/libraries/St_Pauls.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/second/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/second/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/first" />
+  </component>
+  <component name="ProjectId" id="2FfZxk0bt5NWYQNlLIoY4e3qO7Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ByteShortIntLong" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d51a99e-7bfd-4e53-80ee-80ccb1cb6f50" name="Default Changelist" comment="" />
+      <created>1664885347900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664885347900</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="-323" key="FileChooserDialogImpl" timestamp="1664885382814">
+      <screen x="1920" y="-598" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="-323" key="FileChooserDialogImpl/0.0.1536.824/1920.-598.1920.1040@1920.-598.1920.1040" timestamp="1664885382814" />
+  </component>
+</project>
